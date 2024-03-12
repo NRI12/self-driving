@@ -1,0 +1,8 @@
+numpy
+matplotlib
+opencv-python
+tensorflow
+scikit-learn
+imgaug
+picamera2
+pyPS4Controller==1.1.1
