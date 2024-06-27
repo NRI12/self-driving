@@ -26,7 +26,7 @@ Dự án này là một backend phát triển các thuật toán lái xe tự đ
   ```
 - Khởi chạy mô phỏng:
   ```
-  python main_func.py
+  python use_model.py
   ```
 
 **Cấu Trúc Thư Mục:**
